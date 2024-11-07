@@ -242,10 +242,12 @@ main {
 
     .section-form h1, .section-result h1 {
         font-size: 1.4em;
+        text-align: left;
     }
 
     .section-form, .section-result {
         padding: 15px;
+        text-align: left;
     }
 
     .finduson, .img {
