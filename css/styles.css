@@ -234,7 +234,7 @@ main {
     }
 }
 
-/* Media Query untuk Even Smaller Screens (phone)*/
+/* Media Query untuk Even Smaller Screen (phone)*/
 @media (max-width: 480px) {
     body {
         font-size: 14px;
@@ -245,7 +245,6 @@ main {
     }
 
     .section-form, .section-result {
-        text-align: center;
         padding: 15px;
     }
 
